@@ -13,7 +13,7 @@ So, enjoy!
 ## Intro to Python I (Absolute Beginner)
 
 1. [Intro to Google Colab]()
-2. [Intro to Numpy]()
+2. [Intro to Numpy](https://colab.research.google.com/drive/1C2RCLJCQcyjw3pdfjWpQgOwCQWvHbqJs?usp=sharing)
 3. [Intro to Visualization with Matplotlib]()
 4. [Intro to Data with Pandas]()
 
