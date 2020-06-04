@@ -2,6 +2,14 @@
 
 *By: Yohanes Nuwara*
 
+**Python Bootcamp for Geoengineers** was created in June 2020, seeing lots of geoengineers and geoscientists are interested to start programming in Python. This Bootcamp is structured into **4 Courses** and **1 Demo Room** (so far), each of the courses contains several modules that can be accessed using **Google Colab**, a web-cloud Python IDE. 
+
+It is always recommended to start with the first 2 courses (**Intro to Python I and II**). Then, you could choose either to take the **Python Course for Oil and Gas** (ideal for geoengineers, such as petroleum engineers or reservoir engineers) or to take the **Python Course for Geoscience** (ideal for geoscientists, such as geologists or geophysicists). 
+
+**Demo Room** is a place to showcase some wonderful programs that will make you more excited to explore more with Python. 
+
+So, enjoy!
+
 ## Intro to Python I (Absolute Beginner)
 
 1. [Intro to Google Colab]()
