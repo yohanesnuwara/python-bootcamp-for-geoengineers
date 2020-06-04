@@ -1,5 +1,7 @@
 # python-bootcamp-for-geoengineers
 
+![python-bootcamp-for-geoengineers-logo](https://user-images.githubusercontent.com/51282928/83759266-80d8f580-a69d-11ea-9149-9c2eed8b025f.png)
+
 *By: Yohanes Nuwara*
 
 ## Intro to Python I (Absolute Beginner)
