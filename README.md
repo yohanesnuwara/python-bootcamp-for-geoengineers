@@ -12,6 +12,11 @@ At the end of each course, there is a dummy **Exam** to test how far you already
 
 So, enjoy!
 
+## PetroWeek Trisakti
+
+* Day 1: Formation Evaluation and Seismic Data
+* Day 2: Reservoir Engineering
+
 ## Intro to Python I (Absolute Beginner)
 
 1. [Intro to Google Colab]()
