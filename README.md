@@ -8,19 +8,25 @@ It is always recommended to start with the first 2 courses (**Intro to Python I 
 
 At the end of each course, there is a dummy **Exam** to test how far you already master each course!
 
-**Demo Room** is a place to showcase some wonderful programs that will make you more excited to explore more with Python. 
+Enjoy!
 
-So, enjoy!
+## PetroWeek Trisakti, September 2020
 
-## PetroWeek Trisakti
-
-Access the book, [here]()
+Access the workshop book, [here]()
 
 Topics discussed:
 
 * Very Brief Intro to Numpy, Matplotlib, Pandas, and Scipy
 * Python for Exploration
+  * Streaming well log and seismic data from open geoscience data
+  * Visualize well log data
+  * Basic exploratory data analysis (crossplot and histogram) using Seaborn
+  * Basic petrophysics processing (computation of porosity, Vclay)
+  * Read and display 3D seismic data
 * Python for Production
+  * Streaming production data (borehole pressure, production rate)
+  * Simple well-test analysis
+  * Simple decline curve analysis
 
 ## Intro to Python I (Absolute Beginner)
 
@@ -50,7 +56,3 @@ Topics discussed:
 2. [Well-log Data Processing and Petrophysics]()
 3. [Exploring Seismic Data]()
 4. [Exam]()
-
-## Demos
-
-1. [Seismic Widget]()
