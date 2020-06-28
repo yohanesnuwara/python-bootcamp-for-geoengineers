@@ -14,8 +14,13 @@ So, enjoy!
 
 ## PetroWeek Trisakti
 
-* Day 1: Formation Evaluation and Seismic Data
-* Day 2: Reservoir Engineering
+Access the book, [here]()
+
+Topics discussed:
+
+* Very Brief Intro to Numpy, Matplotlib, Pandas, and Scipy
+* Python for Exploration
+* Python for Production
 
 ## Intro to Python I (Absolute Beginner)
 
