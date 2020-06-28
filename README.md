@@ -22,7 +22,7 @@ Topics discussed:
   * Visualize well log data
   * Basic exploratory data analysis (crossplot and histogram) using Seaborn
   * Basic petrophysics processing (computation of porosity, Vclay)
-  * Read and display 3D seismic data
+  * Demo: Read and display 3D seismic data
 * Python for Production
   * Streaming production data (borehole pressure, production rate)
   * Simple well-test analysis
