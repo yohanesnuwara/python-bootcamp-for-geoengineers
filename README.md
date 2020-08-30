@@ -10,9 +10,12 @@ At the end of each course, there is a dummy **Exam** to test how far you already
 
 Enjoy!
 
-## PetroWeek Trisakti, September 2020
+## PetroWeek by SPE Trisakti SC, 13rd of September 2020
 
-Access the workshop book, [here]()
+<div>
+<img src="https://user-images.githubusercontent.com/51282928/84600084-1300ab00-aea1-11ea-9293-4d73a9b30c42.png" width="300"/></div> 
+
+450 participants registed for this training session. Access the workshop book, [here]()
 
 Topics discussed:
 
@@ -30,29 +33,29 @@ Topics discussed:
 
 ## Intro to Python I (Absolute Beginner)
 
-1. [Intro to Google Colab]()
+1. Intro to Google Colab
 2. [Intro to Numpy](https://colab.research.google.com/drive/1C2RCLJCQcyjw3pdfjWpQgOwCQWvHbqJs?usp=sharing)
-3. [Intro to Visualization with Matplotlib]()
-4. [Intro to Data with Pandas]()
-5. [Exam]()
+3. Intro to Visualization with Matplotlib
+4. Intro to Data with Pandas
+5. Exam
 
 ## Intro to Python II (Next Level)
 
-5. [Intro to Scientific Computing with Scipy]()
-6. [Intro to Exploratory Data Analysis with Seaborn]()
-7. [Exam]()
+5. Intro to Scientific Computing with Scipy
+6. Intro to Exploratory Data Analysis with Seaborn
+7. Exam
 
 ## Python Course for Oil and Gas
 
-1. [Exploring Production Data with Pandas]()
-2. [Plotting Production with Matplotlib]()
-3. [Decline Curve Analysis with Scipy]()
-4. [Volumetric Calculation in Python]()
-5. [Exam]()
+1. Exploring Production Data with Pandas
+2. Plotting Production with Matplotlib
+3. Decline Curve Analysis with Scipy
+4. Volumetric Calculation in Python
+5. Exam
 
 ## Python Course for Geoscience
 
-1. [Accesing Open Geoscience Data]()
-2. [Well-log Data Processing and Petrophysics]()
-3. [Exploring Seismic Data]()
-4. [Exam]()
+1. Accesing Open Geoscience Data
+2. Well-log Data Processing and Petrophysics
+3. Exploring Seismic Data
+4. Exam
