@@ -4,13 +4,13 @@ Python Bootcamp for Geoengineers is a GitHub repository that stores all of avail
 
 ## PetroWeek by SPE Trisakti SC, 13rd of September 2020
 
-450 participants registed for this training session. Access the workshop book, [here](https://colab.research.google.com/drive/1NKjTuP16JeX8a1lvS2bRaqSCEnhGzFZD?usp=sharing)
+450 participants registed for this training session. Access the workshop book, [here](https://colab.research.google.com/drive/1NKjTuP16JeX8a1lvS2bRaqSCEnhGzFZD?usp=sharing) or click the image below
 
 [<img src="https://user-images.githubusercontent.com/51282928/91654109-81343180-ead0-11ea-898d-4c43c199fa14.png">](https://colab.research.google.com/drive/1NKjTuP16JeX8a1lvS2bRaqSCEnhGzFZD?usp=sharing)
 
 ### Topics discussed:
 
-*To start learning the following curriculum, see inside the notebook by **clicking the above image***
+*To start learning the following curriculum, see inside the notebook link provided above. 
 
 * Very Brief Intro to Numpy, Matplotlib, Pandas, and Scipy
 * Python for Exploration
