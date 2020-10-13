@@ -10,6 +10,8 @@ Python Bootcamp for Geoengineers is a GitHub repository that stores all of avail
 
 ### Topics discussed:
 
+*To start learning the following curriculum, see inside the notebook by clicking the above image*
+
 * Very Brief Intro to Numpy, Matplotlib, Pandas, and Scipy
 * Python for Exploration
   * Streaming well log and seismic data from open geoscience data
