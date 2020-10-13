@@ -1,6 +1,6 @@
 ![python-bootcamp-for-geoengineers-logo](https://user-images.githubusercontent.com/51282928/83759266-80d8f580-a69d-11ea-9149-9c2eed8b025f.png)
 
-*By: Yohanes Nuwara*
+Python Bootcamp for Geoengineers is a GitHub repository that stores all of available materials to start learning and working with Python for needs in oil and gas exploration and production, energy sector, and geoscience. 
 
 ## PetroWeek by SPE Trisakti SC, 13rd of September 2020
 
