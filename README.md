@@ -4,7 +4,7 @@ Python Bootcamp for Geoengineers is a GitHub repository that stores all of avail
 
 ## Introduction to Python for Exploration and Production Course
 
-This is a 1-day (3-hour) workshop I gave with SPE Trisakti Student Chapter, Indonesia, in September 13rd, 2020. Around 450 participants registed for this training session. 
+This is a 1-day (3-hour) workshop I gave with SPE Trisakti Student Chapter, Indonesia, in September 13rd, 2020. Around 450 participants registered for this training session. 
 
 Access the workshop book, [here](https://colab.research.google.com/drive/1NKjTuP16JeX8a1lvS2bRaqSCEnhGzFZD?usp=sharing) or click the image below
 
