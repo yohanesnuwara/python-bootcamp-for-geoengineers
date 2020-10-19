@@ -3,12 +3,12 @@
 Python Bootcamp for Geoengineers is a GitHub repository that stores all of available materials to start learning and working with Python for needs in oil and gas exploration and production, energy sector, and geoscience. This repo also stores all Jupyter notebooks that I give training to several SPEs student and professional sections. Some materials also linked to other repos and packages that I created (e.g. *PyReservoir* and *PyReSim*) where they're used.
 
 ## Contents:
-* Workshops and Training
- * Introduction to Python for Exploration and Production Course 
- * Geoscience, Exploration, and Production Automation with Python
-* Talks
- * Python Awareness in Exploration and Production for Students and Professionals
- * Basics of Machine Learning in Oil and Gas with Python
+* **Workshops and Training**
+ * [Introduction to Python for Exploration and Production Course](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers#1-introduction-to-python-for-exploration-and-production-course-notebook) 
+ * [Geoscience, Exploration, and Production Automation with Python](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers#2-geoscience-exploration-and-production-automation-with-python)
+* **Talks**
+ * [Python Awareness in Exploration and Production for Students and Professionals](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers#1-python-awareness-in-exploration-and-production-for-students-and-professionals-notebook)
+
 
 ## Workshops and Training
 
