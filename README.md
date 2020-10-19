@@ -4,10 +4,13 @@ Python Bootcamp for Geoengineers is a GitHub repository that stores all of avail
 
 ## Contents:
 * **Workshops and Training**
- * [Introduction to Python for Exploration and Production Course](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers#1-introduction-to-python-for-exploration-and-production-course-notebook) 
- * [Geoscience, Exploration, and Production Automation with Python](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers#2-geoscience-exploration-and-production-automation-with-python)
+
+  * [Introduction to Python for Exploration and Production Course](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers#1-introduction-to-python-for-exploration-and-production-course-notebook) 
+  * [Geoscience, Exploration, and Production Automation with Python](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers#2-geoscience-exploration-and-production-automation-with-python)
+ 
 * **Talks**
- * [Python Awareness in Exploration and Production for Students and Professionals](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers#1-python-awareness-in-exploration-and-production-for-students-and-professionals-notebook)
+
+  * [Python Awareness in Exploration and Production for Students and Professionals](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers#1-python-awareness-in-exploration-and-production-for-students-and-professionals-notebook)
 
 
 ## Workshops and Training
