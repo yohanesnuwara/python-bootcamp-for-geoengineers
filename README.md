@@ -34,6 +34,15 @@ Access the workshop book, [here](https://colab.research.google.com/drive/1NKjTuP
 
 ### Python Awareness in Exploration and Production for Students and Professionals
 
+This is my 1-1.5 hour talk to tell reasons why geoscientists and petroleum engineers, students and professionals, should consider starting to learn Python. I gave this talk in a joint webinar by SPE Asia Pacific University (Malaysia) and SPE Northern Emirates Section (UAE) in 21 October, 2020. 
+
+I gave a Python demo as a trigger material: [Starting Python for E&P in 1 Hour Demo](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/demo_starting_python_E%26P_1hour.ipynb)
+
+* Python and its effectiveness - *comparing use vs. non-use of list comprehension*
+* Numpy, Matplotlib, and Pandas - *quick tour of the libraries*
+* Access exploration open dataset - *stream exploration data (well log) from Kansas Geological Survey*
+* Access production open dataset - *stream production data from Volve field in a Zenodo repository*
+
 ### Machine Learning Application in the Volve Field Dataset
 
 ## License
