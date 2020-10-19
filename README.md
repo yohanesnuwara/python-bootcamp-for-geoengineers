@@ -2,13 +2,19 @@
 
 Python Bootcamp for Geoengineers is a GitHub repository that stores all of available materials to start learning and working with Python for needs in oil and gas exploration and production, energy sector, and geoscience. This repo also stores all Jupyter notebooks that I give training to several SPEs student and professional sections. Some materials also linked to other repos and packages that I created (e.g. *PyReservoir* and *PyReSim*) where they're used.
 
+## Contents:
+* Workshops and Training
+ * Introduction to Python for Exploration and Production Course 
+ * Geoscience, Exploration, and Production Automation with Python
+* Talks
+ * Python Awareness in Exploration and Production for Students and Professionals
+ * Basics of Machine Learning in Oil and Gas with Python
+
 ## Workshops and Training
 
-### Introduction to Python for Exploration and Production Course
+### 1. Introduction to Python for Exploration and Production Course ([Notebook](https://colab.research.google.com/drive/1NKjTuP16JeX8a1lvS2bRaqSCEnhGzFZD?usp=sharing))
 
 This is a 1-day (3-hour) workshop I gave with SPE Trisakti Student Chapter, Indonesia, in September 13rd, 2020. Around 450 participants registered for this training session. 
-
-Access the workshop book, [here](https://colab.research.google.com/drive/1NKjTuP16JeX8a1lvS2bRaqSCEnhGzFZD?usp=sharing) or click the image below
 
 [<img src="https://user-images.githubusercontent.com/51282928/91654109-81343180-ead0-11ea-898d-4c43c199fa14.png">](https://colab.research.google.com/drive/1NKjTuP16JeX8a1lvS2bRaqSCEnhGzFZD?usp=sharing)
 
@@ -28,22 +34,22 @@ Access the workshop book, [here](https://colab.research.google.com/drive/1NKjTuP
   * Simple well-test analysis
   * Simple decline curve analysis
 
-### Geoscience, Exploration, and Production Automation with Python Course
+### 2. Geoscience, Exploration, and Production Automation with Python
 
 ## Talks
 
-### Python Awareness in Exploration and Production for Students and Professionals
+### 1. Python Awareness in Exploration and Production for Students and Professionals ([Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/demo_starting_python_E%26P_1hour.ipynb))
 
 This is my 1-1.5 hour talk to tell reasons why geoscientists and petroleum engineers, students and professionals, should consider starting to learn Python. I gave this talk in a joint webinar by SPE Asia Pacific University (Malaysia) and SPE Northern Emirates Section (UAE) in 21 October, 2020. 
 
-I gave a Python demo as a trigger material: [Starting Python for E&P in 1 Hour Demo](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/demo_starting_python_E%26P_1hour.ipynb)
+I gave a Python demo as a trigger material. See inside the notebook.
 
 * Python and its effectiveness - *comparing use vs. non-use of list comprehension*
 * Numpy, Matplotlib, and Pandas - *quick tour of the libraries*
 * Access exploration open dataset - *stream exploration data (well log) from Kansas Geological Survey*
 * Access production open dataset - *stream production data from Volve field in a Zenodo repository*
 
-### Machine Learning Application in the Volve Field Dataset
+### 2. Machine Learning Application in the Volve Field Dataset
 
 ## License
 
