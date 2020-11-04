@@ -25,7 +25,7 @@ This is a 1-day (3-hour) workshop I gave with SPE Trisakti Student Chapter, Indo
 
 *To start learning the following curriculum, see inside the notebook link provided above.* 
 
-* Very Brief Intro to Numpy, Matplotlib, Pandas, and Scipy
+* Intro to Numpy, Matplotlib, Pandas, and Scipy
 * Python for Exploration
   * Streaming well log and seismic data from open geoscience data
   * Visualize well log data
@@ -37,7 +37,7 @@ This is a 1-day (3-hour) workshop I gave with SPE Trisakti Student Chapter, Indo
   * Simple well-test analysis
   * Simple decline curve analysis
 
-### 2. Geoscience, Exploration, and Production Automation with Python (Go to [Folder]())
+### 2. Geoscience, Exploration, and Production Automation with Python (Go to [Folder](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/tree/master/EnP_training))
 
 This is a 5-day (2-hour) training I (and Destiny Otto) gave with SPE Port Harcourt Section in Nigeria, from 6 to 21 November 2020. Surprisingly, 1,000+ participants from academia and industry from all around the world registered for this training session. 
 
