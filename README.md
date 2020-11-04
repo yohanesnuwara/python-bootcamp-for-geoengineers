@@ -37,7 +37,27 @@ This is a 1-day (3-hour) workshop I gave with SPE Trisakti Student Chapter, Indo
   * Simple well-test analysis
   * Simple decline curve analysis
 
-### 2. Geoscience, Exploration, and Production Automation with Python
+### 2. Geoscience, Exploration, and Production Automation with Python (Go to [Folder]())
+
+This is a 5-day (2-hour) training I (and Destiny Otto) gave with SPE Port Harcourt Section in Nigeria, from 6 to 21 November 2020. Surprisingly, 1,000+ participants from academia and industry from all around the world registered for this training session. 
+
+In the folder, you will find 5 notebooks (3 notebooks for training + 2 for assignments; answer key).
+
+**Topics discussed:**
+
+* Formation evaluation with Python: Dataset used is well 15/9-F-11 A in Volve field dataset
+  * Visualize well log data
+  * Visualize triple combo
+  * Visualize Neutron-Density plot
+  * Compute petrophysical variables (formation porosity PHIF, shale volume VSH, and permeability K)
+  
+* Material balance analysis with Python: Using [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir). Datasets used are from `PyReservoir` tutorial notebooks, and in Volve field dataset
+  * Produce MBAL plot to calculate OOIP and OGIP in gas and oil reservoirs
+  * Calculate water (aquifer) influx
+  
+* Well-test analysis with Python: Using [`PyReservoir`](https://github.com/yohanesnuwara/pyreservoir). Datasets used is well 15/9-F-1 C in Volve field dataset
+  * Simulation of constant rate and pressure test
+  * Analysis of BHP drawdown and build-up 
 
 ## Talks
 
