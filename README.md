@@ -1,10 +1,16 @@
 ![python-bootcamp-for-geoengineers-logo](https://user-images.githubusercontent.com/51282928/83759266-80d8f580-a69d-11ea-9149-9c2eed8b025f.png)
 
-This repository contains all Python source codes and notebooks that I use for my course I've given to SPE student chapters and in PioPetro (Marietta College, Ohio, US). Topics of these courses revolve around basics of Python programming and applications in exploration and production. 
+This repository contains all Python source codes, notebooks, and data that I use for my course I've given to SPE student chapters and in PioPetro (Marietta College, Ohio, US). Topics of these courses revolve around basics of Python programming and applications in exploration and production. 
 
 ## SPE Trisakti SC Course (13 September 2020)
 
 This course consisted of 3 sessions in 1 day; first session about basic Python programming, second session about Python application in exploration (basic well-log analysis); and third session about Python application in production (basic decline curve analysis of production data). 
+
+|Session|Topic|Source code|
+|:--:|:--:|:--:|
+|1|||
+|2|||
+|3|||
 
 ## SPE Port Harcourt Section Course in Nigeria (November 2020)
 
