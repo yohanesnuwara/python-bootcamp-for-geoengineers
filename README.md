@@ -2,6 +2,18 @@
 
 This repository contains all Python source codes and notebooks that I use for my course I've given to SPE student chapters and in PioPetro (Marietta College, Ohio, US). Topics of these courses revolve around basics of Python programming and applications in exploration and production. 
 
+## SPE Trisakti SC Course (13 September 2020)
+
+This course consisted of 3 sessions in 1 day; first session about basic Python programming, second session about Python application in exploration (basic well-log analysis); and third session about Python application in production (basic decline curve analysis of production data). 
+
+## SPE Port Harcourt Section Course in Nigeria (November 2020)
+
+This course consisted of 3 sessions in 1 month; first session about basic Python programming and well-log analysis, second session about material balance analysis; and third session about well-test analysis. There were also coding assignments after this course. 
+
+## PioPetro Course in Marietta College, Ohio, US (February 2021)
+
+This course consisted of 4 sessions in 1 month; first session about basic Python programming, second session about production data analysis; and third session about exploration data visualization of well-log data, wellbore trajectory, and natural fractures; and fourth session about decline curve analysis and production forecast. This course was held as part of the Summer Internship Program. 
+
 <!--
 Python Bootcamp for Geoengineers is a GitHub repository that stores all of available materials to start learning and working with Python for needs in oil and gas exploration and production, energy sector, and geoscience. This repo also stores all Jupyter notebooks that I give training to several SPEs student and professional sections. Some materials also linked to other repos and packages that I created (e.g. *PyReservoir* and *PyReSim*) where they're used.
 
