@@ -8,9 +8,9 @@ This course consisted of 3 sessions in 1 day; first session about basic Python p
 
 |Session|Topic|Source code|
 |:--:|:--:|:--:|
-|1|NumPy, Matplotlib, Pandas, and Scipy||
-|2|Basic well-log data analysis||
-|3|Basic decline curve analysis||
+|1|NumPy, Matplotlib, Pandas, and Scipy|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit1.ipynb)|
+|2|Basic well-log data analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit2.ipynb)|
+|3|Basic decline curve analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit3.ipynb)|
 
 ## SPE Port Harcourt Section Course in Nigeria (November 2020)
 
@@ -18,10 +18,10 @@ This course consisted of 3 sessions in 1 month; first session about basic Python
 
 |Session|Topic|Source code|Assignment|Solution
 |:--:|:--:|:--:|:--:|:--:|
-|1a|NumPy, Matplotlib, and Pandas||||
-|1b|Advanced well-log data analysis||||
-|2|Material balance analysis||||
-|3|Well-test modeling and analysis||||
+|1a|NumPy, Matplotlib, and Pandas|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/very_brief_intro_to_python.ipynb)|||
+|1b|Advanced well-log data analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/session3_formation_evaluation_training.ipynb)|||
+|2|Material balance analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/session4_mbal.ipynb)|||
+|3|Well-test modeling and analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/session5_welltest_instructor.ipynb)|||
 
 ## PioPetro Course in Marietta College, Ohio, US (February 2021)
 
