@@ -1,5 +1,8 @@
 ![python-bootcamp-for-geoengineers-logo](https://user-images.githubusercontent.com/51282928/83759266-80d8f580-a69d-11ea-9149-9c2eed8b025f.png)
 
+This repository contains all Python source codes and notebooks that I use for my course I've given to SPE student chapters and in PioPetro (Marietta College, Ohio, US). Topics of these courses revolve around basics of Python programming and applications in exploration and production. 
+
+<!--
 Python Bootcamp for Geoengineers is a GitHub repository that stores all of available materials to start learning and working with Python for needs in oil and gas exploration and production, energy sector, and geoscience. This repo also stores all Jupyter notebooks that I give training to several SPEs student and professional sections. Some materials also linked to other repos and packages that I created (e.g. *PyReservoir* and *PyReSim*) where they're used.
 
 ## Contents:
