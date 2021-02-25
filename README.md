@@ -8,13 +8,20 @@ This course consisted of 3 sessions in 1 day; first session about basic Python p
 
 |Session|Topic|Source code|
 |:--:|:--:|:--:|
-|1|||
-|2|||
-|3|||
+|1|NumPy, Matplotlib, Pandas, and Scipy||
+|2|Basic well-log data analysis||
+|3|Basic decline curve analysis||
 
 ## SPE Port Harcourt Section Course in Nigeria (November 2020)
 
 This course consisted of 3 sessions in 1 month; first session about basic Python programming and well-log analysis, second session about material balance analysis; and third session about well-test analysis. There were also coding assignments after this course. 
+
+|Session|Topic|Source code|
+|:--:|:--:|:--:|
+|1a|NumPy, Matplotlib, and Pandas||
+|1b|Advanced well-log data analysis||
+|2|Material balance analysis||
+|3|Well-test modeling and analysis||
 
 ## PioPetro Course in Marietta College, Ohio, US (February 2021)
 
