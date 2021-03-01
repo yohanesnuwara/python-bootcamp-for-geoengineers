@@ -31,7 +31,7 @@ This course consisted of 4 sessions in 1 month; first session about basic Python
 |:--:|:--:|:--:|
 |1|NumPy, Matplotlib, Pandas, and Scipy|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/PioPetro/piopetro_session1_introduction_participant.ipynb)|
 |2|Production data analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/PioPetro/piopetro_session2_production_data_analysis.ipynb)|
-|3|Exploration data visualization: </br> well-log, trajectory, natural fractures||
+|3|Exploration data visualization: </br> well-log, trajectory, natural fractures|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/PioPetro/piopetro_session3_exploration_data.ipynb)|
 |4|Basic decline curve analysis and forecast||
 
 <!--
