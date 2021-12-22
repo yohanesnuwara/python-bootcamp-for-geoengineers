@@ -1,38 +1,38 @@
 ![python-bootcamp-for-geoengineers-logo](https://user-images.githubusercontent.com/51282928/83759266-80d8f580-a69d-11ea-9149-9c2eed8b025f.png)
 
-This repository contains all Python source codes, notebooks, and data that I use for my course I've given to SPE student chapters and in PioPetro (Marietta College, Ohio, US). Topics of these courses revolve around basics of Python programming and applications in exploration and production. Jump to [my YouTube lecture video links]()
+This repository contains all Python source codes, notebooks, and data that I use for my course I've given to SPE student chapters and in PioPetro (Marietta College, Ohio, US). Topics of these courses revolve around basics of Python programming and applications in exploration and production.
 
 ## SPE Trisakti SC Course (13 September 2020)
 
 This course consisted of 3 sessions in 1 day; first session about basic Python programming, second session about Python application in exploration (basic well-log analysis); and third session about Python application in production (basic decline curve analysis of production data). 
 
-|Session|Topic|Source code|
-|:--:|:--:|:--:|
-|1|NumPy, Matplotlib, Pandas, and Scipy|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit1.ipynb)|
-|2|Basic well-log data analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit2.ipynb)|
-|3|Basic decline curve analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit3.ipynb)|
+|Session|Topic|Video|Source code|
+|:--:|:--:|:--:|:--:|
+|1|NumPy, Matplotlib, Pandas, and Scipy|[Lecture video](https://youtu.be/hob5Hilj8sM?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=1074) (Play until 38:21)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit1.ipynb)|
+|2|Basic well-log data analysis|[Lecture video](https://youtu.be/fLGX92Doiw4?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=6561) (Play until 2:30:29)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit2.ipynb)|
+|3|Basic decline curve analysis|[Lecture video](https://youtu.be/fLGX92Doiw4?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=9842) (Play until 3:13:35)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/petroweek_notebooks/petroweek2020_unit3.ipynb)|
 
 ## SPE Port Harcourt Section Course in Nigeria (November 2020)
 
 This course consisted of 3 sessions in 1 month; first session about basic Python programming and well-log analysis, second session about material balance analysis; and third session about well-test analysis. There were also coding assignments after this course. 
 
-|Session|Topic|Source code|Assignment|Solution
-|:--:|:--:|:--:|:--:|:--:|
-|1a|NumPy, Matplotlib, and Pandas|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/very_brief_intro_to_python.ipynb)|||
-|1b|Advanced well-log data analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/session3_formation_evaluation_training.ipynb)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/assignment2_SPE_PortHarcourt.ipynb)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/SPE_assignment2_solution.ipynb)|
-|2|Material balance analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/session4_mbal.ipynb)|||
-|3|Well-test modeling and analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/session5_welltest_instructor.ipynb)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/assignment3_SPE.ipynb)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/SPE_assignment3_notebook.ipynb)|
+|Session|Topic|Video|Source code|Assignment|Solution
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|1a|NumPy, Matplotlib, and Pandas|[Lecture video](https://youtu.be/fLGX92Doiw4?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=1701) (Play until 1:35:20)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/very_brief_intro_to_python.ipynb)|||
+|1b|Advanced well-log data analysis|[Lecture video](https://youtu.be/hob5Hilj8sM?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=2602) |[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/session3_formation_evaluation_training.ipynb)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/assignment2_SPE_PortHarcourt.ipynb)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/SPE_assignment2_solution.ipynb)|
+|2|Material balance analysis|[Lecture video](https://youtu.be/7AoExt4Ju1M?list=PLuHj14O65bBAOIdS5AYAKU0Fz_G7tMz73&t=383)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/session4_mbal.ipynb)|||
+|3|Well-test modeling and analysis|[Lecture video](https://youtu.be/8SujEmdoj0U?t=1102)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/session5_welltest_instructor.ipynb)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/assignment3_SPE.ipynb)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/EnP_training/SPE_assignment3_notebook.ipynb)|
 
 ## PioPetro Course in Marietta College, Ohio, US (February 2021)
 
 This course consisted of 4 sessions in 1 month; first session about basic Python programming, second session about production data analysis; and third session about exploration data visualization of well-log data, wellbore trajectory, and natural fractures; and fourth session about decline curve analysis and production forecast. This course was held as part of the Summer Internship Program. 
 
-|Session|Topic|Source code|
-|:--:|:--:|:--:|
-|1|NumPy, Matplotlib, Pandas, and Scipy|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/PioPetro/piopetro_session1_introduction_participant.ipynb)|
-|2|Production data analysis|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/PioPetro/piopetro_session2_production_data_analysis.ipynb)|
-|3|Exploration data visualization: </br> well-log, trajectory, natural fractures|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/PioPetro/piopetro_session3_exploration_data.ipynb)|
-|4|Basic decline curve analysis and forecast|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/PioPetro/piopetro_session4_decline_curve_analysis.ipynb)|
+|Session|Topic|Video|Source code|
+|:--:|:--:|:--:|:--:|
+|1|NumPy, Matplotlib, Pandas, and Scipy|[Lecture video](https://youtu.be/pun_03d_i4Q)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/PioPetro/piopetro_session1_introduction_participant.ipynb)|
+|2|Production data analysis|[Lecture video](https://youtu.be/gLHDcwHFN50)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/PioPetro/piopetro_session2_production_data_analysis.ipynb)|
+|3|Exploration data visualization: </br> well-log, trajectory, natural fractures|[Lecture video](https://youtu.be/-BGiI_5CrwQ)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/PioPetro/piopetro_session3_exploration_data.ipynb)|
+|4|Basic decline curve analysis and forecast|[Lecture video](https://youtu.be/Fjetnt9Bp6s)|[Notebook](https://github.com/yohanesnuwara/python-bootcamp-for-geoengineers/blob/master/PioPetro/piopetro_session4_decline_curve_analysis.ipynb)|
 
 <!--
 Python Bootcamp for Geoengineers is a GitHub repository that stores all of available materials to start learning and working with Python for needs in oil and gas exploration and production, energy sector, and geoscience. This repo also stores all Jupyter notebooks that I give training to several SPEs student and professional sections. Some materials also linked to other repos and packages that I created (e.g. *PyReservoir* and *PyReSim*) where they're used.
